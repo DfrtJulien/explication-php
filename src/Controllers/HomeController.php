@@ -8,4 +8,8 @@ class HomeController
   {
     require_once(__DIR__ . '/../Views/home.view.php');
   }
+  public function deuxieme()
+  {
+    require_once(__DIR__ . '/../Views/deuxieme.view.php');
+  }
 }

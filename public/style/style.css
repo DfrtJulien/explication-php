@@ -1,29 +1,14 @@
-h1 {
-	background-color: #e8e8f2;
-	padding: 20px;
-	text-align: center;
-	color: #0e3698;
-}
-.myNav {
-	background-color: #86c6f6;
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
 }
 
-.myBody {
-	background-image: url("/public/img/fond.jpeg");
-	background-size: cover;
+img {
+	width: 100%;
+	height: 100%;
 }
-.myFooter {
-	background-color: black;
-}
-.bgp {
-	background-color: #7b2fd1;
-}
-.bgb {
-	background-color: #0e3698;
-}
-.bgbc {
-	background-color: #86c6f6;
-}
-.bgg {
-	background-color: #e8e8f2;
+
+.img-container {
+	width: 450px;
 }
